@@ -1,0 +1,99 @@
+https://www.wunderground.com/weather/api/d/docs?MR=1
+https://www.wunderground.com/weather/api/d/docs?d=data/conditions&MR=1
+
+https://github.com/initialstate/wunderground-sensehat/wiki/Part-1.-How-to-Use-the-Wunderground-API
+
+
+###
+Outdoor Air Quality - Fine Particulate Matter: 
+Daily Fine Particulate Matter (PM2.5) (µg/m³) 
+Years 2003 - 2011
+https://wonder.cdc.gov/wonder/help/PM.html
+
+https://www.cdc.gov/nceh/airpollution/
+https://www.cdc.gov/asthma/most_recent_data.htm
+http://www.cdc.gov/air/particulate_matter.html
+
+
+### WIND data
+http://www.ncdc.noaa.gov/qclcd/QCLCD
+NCDC / Locate Station / Select State / NEW YORK: CENTRAL PARK/ Select Year/Month
+http://www.ncdc.noaa.gov/qclcd/qclcddlysummary.htm
+
+
+###
+http://ephtracking.cdc.gov/showAirContaminants.action#pm
+http://ephtracking.cdc.gov/apihelp.action
+http://ephtracking.cdc.gov/docs/API_Data_Discovery_Guide.pdf
+
+http://www.cdc.gov/copd/data.html
+
+http://www.cdc.gov/niosh/topics/surveillance/ORDS/NationalStatistics.html
+
+
+http://index.okfn.org/dataset/emissions/
+https://aqs.epa.gov/aqsweb/documents/ramltohtml.html#serviceAvailable
+### 1990--2016
+http://aqsdr1.epa.gov/aqsweb/aqstmp/airdata/download_files.html 
+http://aqsdr1.epa.gov/aqsweb/aqstmp/airdata/FileFormats.html
+http://aqsdr1.epa.gov/aqsweb/aqstmp/airdata/FileFormats.html#_site_description_file
+#### **
+https://www.epa.gov/outdoor-air-quality-data/download-daily-data
+
+http://macaulay.cuny.edu/student-projects/science-in-ny/asthma/finalchc.htm
+
+https://www.epa.gov/pm-pollution/table-historical-particulate-matter-pm-national-ambient-air-quality-standards-naaqs
+
+
+
+
+http://index.okfn.org/dataset/emissions/
+
+http://berkeleyearth.org/data/
+http://cdiac.ornl.gov/epubs/ndp/ushcn/ushcn_map_interface.html
+### 
+http://cdiac.ornl.gov/cgi-bin/broker?_PROGRAM=prog.climsite_daily.sas&_SERVICE=default&id=305801&_DEBUG=0#
+
+http://www.health.ny.gov/forms/sparcs/doh-5132.pdf
+http://www.health.ny.gov/statistics/sparcs/
+Asthma Hospitalizations DISCHARGE Data  -- have to recompute admissions wrt hospital stay
+### 2012 / 2012--2014?  https://health.data.ny.gov/browse?q=Hospital+Inpatient&utf8=%E2%9C%93&page=1
+https://health.data.ny.gov/Health/Hospital-Inpatient-Discharges-SPARCS-De-Identified/3m9u-ws8e
+https://health.data.ny.gov/Health/Hospital-Inpatient-Discharges-SPARCS-De-Identified/u4ud-w55t/data
+2014 https://health.data.ny.gov/Health/Hospital-Inpatient-Discharges-SPARCS-De-Identified/mpue-vn67
+2013 https://health.data.ny.gov/Health/Hospital-Inpatient-Discharges-SPARCS-De-Identified/876q-xdbe
+2012 https://health.data.ny.gov/Health/Hospital-Inpatient-Discharges-SPARCS-De-Identified/3m9u-ws8e
+2011 https://health.data.ny.gov/Health/Hospital-Inpatient-Discharges-SPARCS-De-Identified/6wke-9zsb
+2010 https://health.data.ny.gov/Health/Hospital-Inpatient-Discharges-SPARCS-De-Identified/mtfm-rxf4
+2009 https://health.data.ny.gov/Health/Hospital-Inpatient-Discharges-SPARCS-De-Identified/9ix8-j96h
+
+https://www.google.com/trends/explore?date=2010-01-01%202010-12-31,2010-01-01%202010-12-31,2014-01-01%202014-12-31&geo=US,US,US&q=%2Fm%2F0c78m,%2Fm%2F0cnq0,%2Fm%2F0gzv0
+
+https://www.health.ny.gov/statistics/ny_asthma/
+
+https://data.medicare.gov/data?q=hospital+admissions
+
+http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0138146
+
+http://www.nychealthandhospitals.org/hhc/downloads/pdf/community-assessment/chna-lincoln.pdf
+
+Asthma Hospital Admissions and Ambient Air Pollutant Concentrations in New York City
+http://www.scirp.org/journal/PaperInformation.aspx?paperID=22946
+
+https://health.data.ny.gov/Health/Hospital-Inpatient-Prevention-Quality-Indicators-P/2xc5-n3zd
+https://health.data.ny.gov/Health/Medicaid-Inpatient-Prevention-Quality-Indicators-P/h6vj-9z3w
+
+https://ehjournal.biomedcentral.com/articles/10.1186/s12940-015-0010-2
+
+http://www.hcup-us.ahrq.gov/reports/statbriefs/sb169-Asthma-Trends-Hospital-Stays.pdf
+https://www.osc.state.ny.us/reports/economic/asthma_2014.pdf
+https://www.downstate.edu/ia/brooklyn_health/bhr/SunyAsthma.pdf
+http://www.air-nyc.org/
+
+
+http://www.nychealthandhospitals.org/hhc/downloads/pdf/community-assessment/chna-lincoln.pdf
+
+https://www.monroecollege.edu/uploadedFiles/_Site_Assets/PDF/Asthma%20prevention_Final.pdf
+
+http://www.ncdc.noaa.gov/data-access/quick-links
+
