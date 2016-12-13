@@ -1,0 +1,4 @@
+USAF-WBAN_ID STATION NAME                   COUNTRY                                            STATE 			      LATITUDE LONGITUDE ELEVATION
+------------ ------------------------------ -------------------------------------------------- ------------------------------ -------- --------- ---------
+725020 14734 NEWARK LIBERTY INTERNATIONAL A UNITED STATES                                      NEW JERSEY                      +40.683  -074.169   +0002.1
+725060 94728 NEW YORK CENTRAL PARK          UNITED STATES                                      NEW YORK                        +40.779  -073.969   +0047.5
