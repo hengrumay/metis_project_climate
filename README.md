@@ -6,4 +6,4 @@ In this project weather and air quality data (NOOA, CDIAC, EPA from 2006--2013) 
 
 The gradient boosted tree model (precision|recall ~83%) performed better on hold-out data (all visits in 2014) than random forest and logistic regression models and is used to render a prototype calendar web application for prospective ED resource management in D3.js.   
 
-A summary of this assessment can be found [here](https://github.com/hengrumay/metis_project_climate/blob/master/docs/H-RMTan_predictingEDvisitswithClimateData.pptx.pdf).
+A summary of this assessment can be found [here](https://github.com/hengrumay/predictEDvists/blob/master/docs/MayMerkle-Tan_predictEDvisit_updated.pdf).
